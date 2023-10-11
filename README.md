@@ -27,12 +27,14 @@ To train the model with more classes add more subdirectories of the particular c
 ## Usage
 
 * You can load the model (.keras) file from the main branch and start predicting with your images
+  [cell_classifier.ipynb](https://github.com/enockjamin01/human-cell-classfication/blob/main/cell_classifier.ipynb)
 
 * Please delete (delete.txt) file from each sub directory classes in the Git repo after cloning (This was done to demonstrate only the structure of the image and dataset folders)
 
 * You can add more classes by adding more classes directory and images to the images folder and add the classes directory to the dataset folder 
 
 * Remember to run the data_preprocessing.ipynb file after downloading images for the required classes
+  [data_preprocessing.ipynb](https://github.com/enockjamin01/human-cell-classfication/blob/main/data_preprocessing.ipynb)
 
 ## How to get images
 
