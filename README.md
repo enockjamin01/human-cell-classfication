@@ -56,7 +56,7 @@ To train the model with more classes add more subdirectories of the particular c
 
 ![Accuracy](https://github.com/enockjamin01/human-cell-classfication/blob/main/plots/accuracy.png)
 
-#Loss
+* Loss
 
 ![Loss](https://github.com/enockjamin01/human-cell-classfication/blob/main/plots/loss-plot.png)
 
