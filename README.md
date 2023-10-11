@@ -28,6 +28,8 @@ To train the model with more classes add more subdirectories of the particular c
 
 * You can load the model (.keras) file from the src folder and start predicting with your images
 
+* Please delete (delete.txt) file from each sub directory classes in the Git repo after cloning (This was done to demonstrate only the structure of the image and dataset folders)
+
 * You can add more classes by adding more classes directory and images to the images folder and add the classes directory to the dataset folder 
 
 * Remember to run the data_preprocessing.ipynb file after downloading images for the required classes
