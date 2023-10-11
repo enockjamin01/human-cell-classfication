@@ -40,7 +40,7 @@ To train the model with more classes add more subdirectories of the particular c
 
 ## Sample image for download
 
-![Sample microscope image](https://github.com/enockjamin01/human-cell-classfication/blob/main/sample/sample-adipose.jpg)
+![Sample microscope image](https://github.com/enockjamin01/human-cell-classfication/blob/main/sample/sample-muscle-2.jpg)
 
 ## Splitting of data
 
