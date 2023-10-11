@@ -26,7 +26,7 @@ To train the model with more classes add more subdirectories of the particular c
 
 ## Usage
 
-* You can load the model (.keras) file from the src folder and start predicting with your images
+* You can load the model (.keras) file from the main branch and start predicting with your images
 
 * Please delete (delete.txt) file from each sub directory classes in the Git repo after cloning (This was done to demonstrate only the structure of the image and dataset folders)
 
